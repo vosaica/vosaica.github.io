@@ -18,8 +18,8 @@
     <img src="https://vosaica.github.io/BlogImg/IIDX_DIY/board1.jpg" width="200"/> &nbsp &nbsp &nbsp &nbsp <img src="https://vosaica.github.io/BlogImg/IIDX_DIY/board2.jpg" width="200"/>
 </center>
 
-<p>I used port 4, 5, 7, 8, 9, 10, 14, 15 and 16 on arduino for connecting 9 bottons. The encoder used port 2 and 3 <strong>It’s necessary for encoder to use the 2 and 3 ports for special function. Do not change them</strong> And you will have to give all the bottons a common ground, which is GND port on arduino and give encoder a 5V and GND.</p>
-<p>My controller’s wire looks like this:<br><img src="https://vosaica.github.io/BlogImg/IIDX_DIY/inside.jpg" alt="inside"></p>
+<p>I used port 4, 5, 7, 8, 9, 10, 14, 15 and 16 on arduino for connecting 9 bottons. The encoder used port 2 and 3 <strong>It’s necessary for encoder to use the 2 and 3 ports for special function. Do not change them!</strong> And you will have to give all the bottons a common ground, which is GND port on arduino and give encoder a 5V and GND.</p>
+<p>My controller’s circuit looks like this:<br><img src="https://vosaica.github.io/BlogImg/IIDX_DIY/inside.jpg" alt="inside"></p>
 <h2 id="Now-for-the-programs"><a href="#Now-for-the-programs" class="headerlink" title="Now for the programs"></a>Now for the programs</h2><p>The program will analog a keyboard input. You should have seen my program file in the repo, download an IDE for arduino and just upload that program. If you are using different port or key configuration, remember to change the buttonFunc function.</p>
 <p>Change this section to give different ports with different keys:</p>
 <pre><code>buttonFunc(6, &apos;g&apos;);
@@ -33,11 +33,11 @@ buttonFunc(4, &apos;q&apos;);
 buttonFunc(15, &apos;e&apos;);</code></pre><p>One more thing to notice is that the encoder I used is 600 p/r, if you are using different encoder, the sensitivity would change, and you can adjust that by changing the the first parameter in the encoderFunc. </p>
 <pre><code>encoderFunc(3, KEY_RIGHT_SHIFT, KEY_LEFT_SHIFT);
 //change the 3 to a larger value for higher sensitivity
-//Vice versa</code></pre><h1 id="3-Something-else"><a href="#3-Something-else" class="headerlink" title="3. Something else"></a>3. <strong>Something else</strong></h1><p>The rotate disk of my controller is not fixed to the encoder, so it might drop. If you want to solve that problem, you could change the cad file of the transparent one. Replacing the disk with the part under it.</p>
+//Vice versa</code></pre><h1 id="3-Something-else"><a href="#3-Something-else" class="headerlink" title="3. Something else"></a><strong>3. Something else</strong></h1><p>The rotate disk of my controller is not fixed to the encoder, so it might drop. If you want to solve that problem, you could change the cad file of the transparent one. Replacing the disk with the part under it.</p>
 <p><img src="https://vosaica.github.io/BlogImg/IIDX_DIY/disk.png" alt="replace the disk with this"></p>
-<p>Then you could 3d print this part with the 3D model included in my repo and glue them together.</p>
+<p>Then you could print this part with the 3D model included in my repo and glue them together.</p>
 <p><img src="https://vosaica.github.io/BlogImg/IIDX_DIY/3dPart.png" alt="3D Part"></p>
-<p>Since 3D printing is in better accuracy, it could fit to the encoder better.</p>
+<p>Since 3D printing is in better accuracy, it could be tightly attached to the encoder.</p>
 <center>
 Have fun in IIDX!
 </center>
