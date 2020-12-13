@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://vethodology.me/2020/11/10/Shadertoy_vol6/</loc>
-    
-    <lastmod>2020-12-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://vethodology.me/2020/10/20/Shadertoy_vol5.5/</loc>
     
     <lastmod>2020-12-13</lastmod>
@@ -19,6 +12,13 @@
     <loc>https://vethodology.me/2020/09/28/Shadertoy_vol5/</loc>
     
     <lastmod>2020-12-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vethodology.me/2020/11/10/Shadertoy_vol6/</loc>
+    
+    <lastmod>2020-11-10</lastmod>
     
   </url>
   
