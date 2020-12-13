@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vethodology</title>
+  <icon>https://vethodology.me/img/floppy.webp</icon>
+  <subtitle>My personal blog</subtitle>
+  <link href="https://vethodology.me/atom.xml" rel="self"/>
+  
+  <link href="https://vethodology.me/"/>
+  <updated>2020-12-13T14:32:27.007Z</updated>
+  <id>https://vethodology.me/</id>
+  
+  <author>
+    <name>VOSAICA</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Shadertoy学习 vol6. SDF的变换，软阴影和移动相机</title>
+    <link href="https://vethodology.me/2020/11/10/Shadertoy_vol6/"/>
+    <id>https://vethodology.me/2020/11/10/Shadertoy_vol6/</id>
+    <published>2020-11-10T03:26:09.551Z</published>
+    <updated>2020-12-13T14:32:27.007Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_6/Cover.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+    <category term="Graphics" scheme="https://vethodology.me/tags/Graphics/"/>
+    
+    <category term="Ray Marching" scheme="https://vethodology.me/tags/Ray-Marching/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadertoy学习 vol5.5. Ray Marching 番外篇</title>
+    <link href="https://vethodology.me/2020/10/20/Shadertoy_vol5.5/"/>
+    <id>https://vethodology.me/2020/10/20/Shadertoy_vol5.5/</id>
+    <published>2020-10-20T01:30:10.689Z</published>
+    <updated>2020-12-13T13:53:06.648Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_5.5/Cover.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+    <category term="Graphics" scheme="https://vethodology.me/tags/Graphics/"/>
+    
+    <category term="水" scheme="https://vethodology.me/tags/%E6%B0%B4/"/>
+    
+    <category term="Ray Marching" scheme="https://vethodology.me/tags/Ray-Marching/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadertoy学习 vol5. Ray Marching 基本原理与实现</title>
+    <link href="https://vethodology.me/2020/09/28/Shadertoy_vol5/"/>
+    <id>https://vethodology.me/2020/09/28/Shadertoy_vol5/</id>
+    <published>2020-09-28T12:41:00.881Z</published>
+    <updated>2020-12-13T13:44:55.804Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_5/Cover.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+    <category term="Graphics" scheme="https://vethodology.me/tags/Graphics/"/>
+    
+    <category term="Ray Marching" scheme="https://vethodology.me/tags/Ray-Marching/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadertoy学习 vol4. 菲涅尔, 折射与吸收, 环绕相机</title>
+    <link href="https://vethodology.me/2020/08/20/Shadertoy_vol4/"/>
+    <id>https://vethodology.me/2020/08/20/Shadertoy_vol4/</id>
+    <published>2020-08-20T02:53:59.932Z</published>
+    <updated>2020-09-28T12:54:10.457Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_4/Cover.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+    <category term="Graphics" scheme="https://vethodology.me/tags/Graphics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadertoy学习 vol3. 抗锯齿，SRGB，镜面反射</title>
+    <link href="https://vethodology.me/2020/08/11/Shadertoy_vol3/"/>
+    <id>https://vethodology.me/2020/08/11/Shadertoy_vol3/</id>
+    <published>2020-08-11T06:13:20.591Z</published>
+    <updated>2020-09-28T12:54:19.069Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_3/Shadertoy.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+    <category term="Graphics" scheme="https://vethodology.me/tags/Graphics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadertoy学习 vol2. 相机，漫反射，光源</title>
+    <link href="https://vethodology.me/2020/08/07/Shadertoy_vol2/"/>
+    <id>https://vethodology.me/2020/08/07/Shadertoy_vol2/</id>
+    <published>2020-08-07T14:58:03.883Z</published>
+    <updated>2020-09-28T12:54:33.812Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_2/Shadertoy.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+    <category term="Graphics" scheme="https://vethodology.me/tags/Graphics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadertoy学习 vol1. 基本介绍与环境搭建</title>
+    <link href="https://vethodology.me/2020/08/07/Shadertoy_vol1/"/>
+    <id>https://vethodology.me/2020/08/07/Shadertoy_vol1/</id>
+    <published>2020-08-06T16:00:00.000Z</published>
+    <updated>2020-09-28T12:53:47.398Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_1/ocean.webp&quot; alt=&quot;Seascape from Shadertoy&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+    <category term="Graphics" scheme="https://vethodology.me/tags/Graphics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在Web中添加SoundCloud播放器</title>
+    <link href="https://vethodology.me/2020/07/21/SoundCloud_Share/"/>
+    <id>https://vethodology.me/2020/07/21/SoundCloud_Share/</id>
+    <published>2020-07-20T16:20:24.676Z</published>
+    <updated>2020-08-08T17:06:43.957Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天在逛nitro+官网的时候发现他们的宣传曲都是用的SoundCloud的网页播放器放的，让我有些好奇是怎么做的&lt;br&gt;&lt;img src=&quot;https://vosaica.github.io/BlogImg/SoundCloud_Share/MojikaNoKo.webp&quot; alt=&quot;『みにくいモジカの子』&quot;&gt;&lt;br&gt;Google了一下SoundCloud的api, 发现意外的简单。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="水" scheme="https://vethodology.me/tags/%E6%B0%B4/"/>
+    
+    <category term="Web" scheme="https://vethodology.me/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络训练 VGG16 network training</title>
+    <link href="https://vethodology.me/2020/07/20/VGG_16/"/>
+    <id>https://vethodology.me/2020/07/20/VGG_16/</id>
+    <published>2020-07-20T10:57:54.221Z</published>
+    <updated>2020-08-08T17:06:45.066Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;利用Pytorch和CIFAR10数据集训练VGG16网络，附代码&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://vosaica.github.io/BlogImg/VGG16/VGG16.webp&quot; alt=&quot;Structure of VGG16&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="水" scheme="https://vethodology.me/tags/%E6%B0%B4/"/>
+    
+    <category term="Deep Learning" scheme="https://vethodology.me/tags/Deep-Learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DIY IIDX Controller</title>
+    <link href="https://vethodology.me/2020/07/12/IIDX_DIY_Controller/"/>
+    <id>https://vethodology.me/2020/07/12/IIDX_DIY_Controller/</id>
+    <published>2020-07-12T15:40:07.622Z</published>
+    <updated>2020-09-29T01:23:35.263Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/IIDX_DIY/iidxController.webp&quot; alt=&quot;IIDX Controller&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tutorials" scheme="https://vethodology.me/categories/Tutorials/"/>
+    
+    
+    <category term="Games" scheme="https://vethodology.me/tags/Games/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My first post</title>
+    <link href="https://vethodology.me/2020/07/08/My_first_post/"/>
+    <id>https://vethodology.me/2020/07/08/My_first_post/</id>
+    <published>2020-07-08T11:53:51.290Z</published>
+    <updated>2020-08-08T06:06:34.259Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;为什么爷要写博客？&quot;&gt;&lt;a href=&quot;#为什么爷要写博客？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Miscellaneous" scheme="https://vethodology.me/categories/Miscellaneous/"/>
+    
+    
+    <category term="水" scheme="https://vethodology.me/tags/%E6%B0%B4/"/>
+    
+  </entry>
+  
+</feed>
