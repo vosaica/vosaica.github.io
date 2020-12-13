@@ -4,78 +4,145 @@
   <url>
     <loc>https://vethodology.me/2020/11/10/Shadertoy_vol6/</loc>
     
-    <lastmod>2020-12-13T14:32:27.007Z</lastmod>
+    <lastmod>2020-12-13</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/10/20/Shadertoy_vol5.5/</loc>
     
-    <lastmod>2020-12-13T13:53:06.648Z</lastmod>
+    <lastmod>2020-12-13</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/09/28/Shadertoy_vol5/</loc>
     
-    <lastmod>2020-12-13T13:44:55.804Z</lastmod>
+    <lastmod>2020-12-13</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/07/12/IIDX_DIY_Controller/</loc>
     
-    <lastmod>2020-09-29T01:23:35.263Z</lastmod>
+    <lastmod>2020-09-29</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/08/07/Shadertoy_vol2/</loc>
     
-    <lastmod>2020-09-28T12:54:33.812Z</lastmod>
+    <lastmod>2020-09-28</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/08/11/Shadertoy_vol3/</loc>
     
-    <lastmod>2020-09-28T12:54:19.069Z</lastmod>
+    <lastmod>2020-09-28</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/08/20/Shadertoy_vol4/</loc>
     
-    <lastmod>2020-09-28T12:54:10.457Z</lastmod>
+    <lastmod>2020-09-28</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/08/07/Shadertoy_vol1/</loc>
     
-    <lastmod>2020-09-28T12:53:47.398Z</lastmod>
+    <lastmod>2020-09-28</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/07/20/VGG_16/</loc>
     
-    <lastmod>2020-08-08T17:06:45.066Z</lastmod>
+    <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/07/21/SoundCloud_Share/</loc>
     
-    <lastmod>2020-08-08T17:06:43.957Z</lastmod>
+    <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
     <loc>https://vethodology.me/2020/07/08/My_first_post/</loc>
     
-    <lastmod>2020-08-08T06:06:34.259Z</lastmod>
+    <lastmod>2020-08-08</lastmod>
     
+  </url>
+  
+
+  <url>
+    <loc>https://vethodology.me/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://vethodology.me/tags/Games/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vethodology.me/tags/Graphics/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vethodology.me/tags/%E6%B0%B4/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vethodology.me/tags/Ray-Marching/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vethodology.me/tags/Web/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vethodology.me/tags/Deep-Learning/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://vethodology.me/categories/Tutorials/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vethodology.me/categories/Miscellaneous/</loc>
+    <lastmod>2020-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   
 </urlset>
