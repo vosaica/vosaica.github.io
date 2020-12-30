@@ -17,7 +17,7 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Shadertoy学习 vol6. SDF变换，半兰伯特光照，软阴影和移动相机</title>
+    <title>Shadertoy学习 vol. 6 SDF变换，半兰伯特光照，软阴影和移动相机</title>
     <link href="https://vethodology.me/2020/11/10/Shadertoy_vol6/"/>
     <id>https://vethodology.me/2020/11/10/Shadertoy_vol6/</id>
     <published>2020-11-10T03:26:09.551Z</published>
@@ -40,11 +40,11 @@
   </entry>
   
   <entry>
-    <title>Shadertoy学习 vol5.5. Ray Marching 番外篇</title>
+    <title>Shadertoy学习 vol. 5.5 Ray Marching 番外篇</title>
     <link href="https://vethodology.me/2020/10/20/Shadertoy_vol5.5/"/>
     <id>https://vethodology.me/2020/10/20/Shadertoy_vol5.5/</id>
     <published>2020-10-20T01:30:10.689Z</published>
-    <updated>2020-12-13T13:53:06.648Z</updated>
+    <updated>2020-10-20T01:30:10.689Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_5.5/Cover.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
@@ -65,11 +65,11 @@
   </entry>
   
   <entry>
-    <title>Shadertoy学习 vol5. Ray Marching 基本原理与实现</title>
+    <title>Shadertoy学习 vol. 5 Ray Marching 基本原理与实现</title>
     <link href="https://vethodology.me/2020/09/28/Shadertoy_vol5/"/>
     <id>https://vethodology.me/2020/09/28/Shadertoy_vol5/</id>
     <published>2020-09-28T12:41:00.881Z</published>
-    <updated>2020-12-13T13:44:55.804Z</updated>
+    <updated>2020-09-28T12:41:00.881Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_5/Cover.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
@@ -88,11 +88,11 @@
   </entry>
   
   <entry>
-    <title>Shadertoy学习 vol4. 菲涅尔, 折射与吸收, 环绕相机</title>
+    <title>Shadertoy学习 vol. 4 菲涅尔, 折射与吸收, 环绕相机</title>
     <link href="https://vethodology.me/2020/08/20/Shadertoy_vol4/"/>
     <id>https://vethodology.me/2020/08/20/Shadertoy_vol4/</id>
     <published>2020-08-20T02:53:59.932Z</published>
-    <updated>2020-09-28T12:54:10.457Z</updated>
+    <updated>2020-08-20T02:53:59.932Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_4/Cover.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
@@ -109,11 +109,11 @@
   </entry>
   
   <entry>
-    <title>Shadertoy学习 vol3. 抗锯齿，SRGB，镜面反射</title>
+    <title>Shadertoy学习 vol. 3 抗锯齿，SRGB，镜面反射</title>
     <link href="https://vethodology.me/2020/08/11/Shadertoy_vol3/"/>
     <id>https://vethodology.me/2020/08/11/Shadertoy_vol3/</id>
     <published>2020-08-11T06:13:20.591Z</published>
-    <updated>2020-09-28T12:54:19.069Z</updated>
+    <updated>2020-08-11T06:13:20.591Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_3/Shadertoy.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
@@ -130,11 +130,11 @@
   </entry>
   
   <entry>
-    <title>Shadertoy学习 vol2. 相机，漫反射，光源</title>
+    <title>Shadertoy学习 vol. 2 相机，漫反射，光源</title>
     <link href="https://vethodology.me/2020/08/07/Shadertoy_vol2/"/>
     <id>https://vethodology.me/2020/08/07/Shadertoy_vol2/</id>
     <published>2020-08-07T14:58:03.883Z</published>
-    <updated>2020-09-28T12:54:33.812Z</updated>
+    <updated>2020-08-07T14:58:03.883Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_2/Shadertoy.webp&quot; alt=&quot;result&quot;&gt;&lt;/p&gt;</summary>
@@ -151,11 +151,11 @@
   </entry>
   
   <entry>
-    <title>Shadertoy学习 vol1. 基本介绍与环境搭建</title>
+    <title>Shadertoy学习 vol. 1 基本介绍与环境搭建</title>
     <link href="https://vethodology.me/2020/08/07/Shadertoy_vol1/"/>
     <id>https://vethodology.me/2020/08/07/Shadertoy_vol1/</id>
     <published>2020-08-06T16:00:00.000Z</published>
-    <updated>2020-09-28T12:53:47.398Z</updated>
+    <updated>2020-08-06T16:00:00.000Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://vethodology.me/BlogImg/Shadertoy_1/ocean.webp&quot; alt=&quot;Seascape from Shadertoy&quot;&gt;&lt;/p&gt;</summary>
