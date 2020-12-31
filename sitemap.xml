@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vethodology.me/2020/12/31/2021_New_Year/</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://vethodology.me/2020/11/10/Shadertoy_vol6/</loc>
     
     <lastmod>2020-11-10</lastmod>
@@ -81,7 +88,7 @@
 
   <url>
     <loc>https://vethodology.me/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,42 +96,42 @@
   
   <url>
     <loc>https://vethodology.me/tags/Games/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://vethodology.me/tags/Graphics/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://vethodology.me/tags/%E6%B0%B4/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://vethodology.me/tags/Ray-Marching/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://vethodology.me/tags/Web/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://vethodology.me/tags/Deep-Learning/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -133,14 +140,14 @@
   
   <url>
     <loc>https://vethodology.me/categories/Tutorials/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://vethodology.me/categories/Miscellaneous/</loc>
-    <lastmod>2020-12-30</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

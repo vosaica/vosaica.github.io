@@ -6,7 +6,7 @@
   <link href="https://vethodology.me/atom.xml" rel="self"/>
   
   <link href="https://vethodology.me/"/>
-  <updated>2020-11-10T03:26:09.551Z</updated>
+  <updated>2020-12-31T15:51:12.917Z</updated>
   <id>https://vethodology.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新年快乐</title>
+    <link href="https://vethodology.me/2020/12/31/2021_New_Year/"/>
+    <id>https://vethodology.me/2020/12/31/2021_New_Year/</id>
+    <published>2020-12-31T15:51:12.917Z</published>
+    <updated>2020-12-31T15:51:12.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;现在是北京时间2020年12月31号晚上23:52，马上就要到2021了。虽然我对新年没有什么特别的感想，但如果今天不发一篇博客的话，这个12月就跟全在摸鱼一样。最近都在忙着RD阶段的申请，本来像今天好歹抽空写一个篇关于Blin-Phong光照模型的教程，不过在图书馆除了写</summary>
+        
+      
+    
+    
+    
+    <category term="Miscellaneous" scheme="https://vethodology.me/categories/Miscellaneous/"/>
+    
+    
+    <category term="水" scheme="https://vethodology.me/tags/%E6%B0%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>Shadertoy学习 vol. 6 SDF变换，半兰伯特光照，软阴影和移动相机</title>
